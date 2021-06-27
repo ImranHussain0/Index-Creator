@@ -1,6 +1,7 @@
 # 25/6/21
-# Index Creator version 1.0
+# Index Creator
 # Author: I.Hussain
+#
 # This program takes a list of stocks and checks which of them are considered undervalued according to the Graham number.
 # The result is then written into a file called a seperate file.
 # The intention is to create a universe where all the constituents are 'undervalued'
